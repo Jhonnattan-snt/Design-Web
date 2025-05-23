@@ -1,2 +1,3 @@
 # Design-Web
-Projeto de portfólio pessoal desenvolvido como parte da disciplina de Design Web. Utiliza HTML para estruturação do conteúdo e CSS para a apresentação visual. O design é focado em usabilidade e responsividade. Futuramente, funcionalidades dinâmicas serão integradas com JavaScript.
+Repositório com os projetos desenvolvidos na disciplina de Design Web, utilizando HTML, CSS e, futuramente, JavaScript. Contém páginas estáticas, layouts responsivos e fundamentos de front-end.
+Cada pasta contém um exercício ou projeto, com comentários explicando as principais decisões de design e implementação.
